@@ -1,0 +1,21 @@
+{
+  "name": "navy-intentional-theme",
+  "displayName": "Navy-Intentional-Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Navy Intentional Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Navy Intentional Theme-color-theme.json"
+      }
+    ]
+  }
+}
