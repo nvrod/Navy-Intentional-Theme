@@ -17,5 +17,19 @@
         "path": "./themes/Navy Intentional Theme-color-theme.json"
       }
     ]
-  }
+  },
+
+  "icon": "Icons/Intentional-Co-Logo.png",
+  "author": {
+    "name": "Nicolas Valbuena",
+    "email": "nicolasvalbuenaro@gmail.com",
+    "url": "https://www.linkedin.com/in/nvrod/"
+  },
+  "repository": {
+    "url": "https://github.com/nvrod/Navy-Intentional-Theme",
+    "type": "git"
+  },
+  "publisher": "Intentional-Co"
+
+  
 }
